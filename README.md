@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/239757
+#### https://SenatorovAI.com
 
 # Normal Equations Solver for Simple Linear Regression
 
